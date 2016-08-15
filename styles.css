@@ -1,0 +1,19 @@
+/* add your CSS here */
+.facts {
+	font-weight: bold;
+	list-style: none;
+}
+
+.interesting {
+	font-style: italic;
+}
+
+.corgi {
+	border: 2px solid black;
+	padding: 10px 10px;	
+	width: 400px;
+}
+
+.information {
+	border: 1px dotted blue;
+}
